@@ -6,6 +6,7 @@
 - For the sake of consistency "directory" and "folder" are the same thing. I try to use both words for clarity, but if not, you can assume they are the same thing. 
 
 
+
 Question: ***Where am I?***<br>
 Answer: `pwd`<br>
 <br>
@@ -19,6 +20,12 @@ Question: ***How do I go back up on level?***<br>
 Answer: `cd ..`<br>
 <br>
 Question: ***How do I change the directory/folder to one below where I am currently?***<br>
-Answer: `cd <Name of the folder>`  Note: *You must be in the proper directory/folder to get to the next one. If not navigate to where you need to be, then execute this code.*<br>
+Answer: `cd <Name of the folder>`  
+Note: *You must be in the proper directory/folder to get to the next one. If not navigate to where you need to be, then execute this code.*<br>
 <br>
+Question: ***How do I make a new directory/folder?***<br>
+Answer: `mkdir <NewFolderName>`<br> 
+<br>
+Question: ***How do I make a new file?***<br>
+Answer: `touch <NewFileName>`<br>
 
