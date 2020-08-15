@@ -4,9 +4,10 @@
 - Type in your command line whatever is in this grey text like this: `type exactly what is in here`  
 - Change the text inside the <> arrows to be the name of the directory or folder you want. Like this <This is the name of your folder>  
 - For the sake of consistency "directory" and "folder" are the same thing. I try to use both words for clarity, but if not, you can assume they are the same thing. 
-<br>
-<br>
-Question: *** Where am I?***<br>
+
+
+
+Question: ***Where am I?***<br>
 Answer: `pwd`<br>
 <br>
 Question: ***What is in the directory/folder where I am currently?***<br>
