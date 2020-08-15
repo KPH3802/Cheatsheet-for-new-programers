@@ -38,7 +38,7 @@ Note: *This '^' is hitting your up arrow once. Continue to hit it to get more pr
 <br>
 Question: ***How do I create predictive text so my Terminal/GitBash types out the rest of the name of the directory/folder?***<br>
 Answer: Type the first few letters of what you want and hit the `tab` button<br>
-Note: *You need to be in the proper directory/folder that your folder or file that you want to use predicitive text for otherwise it won't produce anything. This is another way to know if you're in the proper directory/folder. Also, if you have more than one file or folder that begins with the same first few letters it will show you which folders or files you can choose from. Type until the first few letters are different and it will know which one you want.<br>
+Note: *You need to be in the proper directory/folder that your folder or file that you want to use predicitive text for otherwise it won't produce anything. This is another way to know if you're in the proper directory/folder. Also, if you have more than one file or folder that begins with the same first few letters it will show you which folders or files you can choose from. Type until the first few letters are different and it will know which one you want.*<br>
 <br>
  Question: ***Where the heck am I??!! My Terminal/GitBash now has ~ or # running down the side OR I forgot to hit `-m` when I was committing in git and now I can't get out!***<br>
  Answer: `esc` button then type `:wq`<br>
