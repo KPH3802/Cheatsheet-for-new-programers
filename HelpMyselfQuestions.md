@@ -1,9 +1,15 @@
 # In the Terminal/GitBash<br>
 
+#### Notes: 
+- Type in your command line whatever is in this grey text like this: `type exactly what is in here`  
+- Change the text inside the <> arrows to be the name of the directory or folder you want. Like this <This is the name of your folder>  
+- For the sake of consistency "directory" and "folder" are the same thing. I try to use both words for clarity, but if not, you can assume they are the same thing. 
+
+
 Question: ***Where am I?***<br>
 Answer: `pwd`<br>
 <br>
-Question: ***What is in the directory/folder wehre I am currently?***<br>
+Question: ***What is in the directory/folder where I am currently?***<br>
 Answer: `ls`<br>
 <br>
 Question: ***How do I start over and go back to the root directory?***<br>
@@ -13,6 +19,6 @@ Question: ***How do I go back up on level?***<br>
 Answer: `cd ..`<br>
 <br>
 Question: ***How do I change the directory/folder to one below where I am currently?***<br>
-Answer: `cd <Name of the folder>`  Note: *You must be in the proper directory/folder to get to the next one. If not navigate to where you need to be then execute this code.*<br>
+Answer: `cd <Name of the folder>`  Note: *You must be in the proper directory/folder to get to the next one. If not navigate to where you need to be, then execute this code.*<br>
 <br>
 
