@@ -6,8 +6,7 @@
 - For the sake of consistency "directory" and "folder" are the same thing. I try to use both words for clarity, but if not, you can assume they are the same thing. 
 <br>
 <br>
-<br>
-Question: ***Where am I?***<br>
+Question: *** Where am I?***<br>
 Answer: `pwd`<br>
 <br>
 Question: ***What is in the directory/folder where I am currently?***<br>
