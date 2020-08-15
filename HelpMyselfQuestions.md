@@ -34,7 +34,7 @@ Answer: `clear`<br>
 <br>
 Question: ***How do I get the previous command I entered into the Terminal/GitBash?***<br>
 Answer: `^`<br>
-Note: *This '^' is hitting your up arrow once. Continue to hit it to get more previous commands before this.* 
+Note: *This '^' is hitting your up arrow once. Continue to hit it to get more previous commands before this.*<br>
 <br>
 Question: ***How do I create predictive text so my Terminal/GitBash types out the rest of the name of the directory/folder?***<br>
 Answer: Type the first few letters of what you want and hit the `tab` button.<br> 
