@@ -19,7 +19,7 @@ Windows: `dir`<br>
 Question: ***How do I start over and go to the highest level directory?***<br>
 Answer:<br>
 Mac:`cd ~` or `cd /`<br>
-Windows: `cd`
+Windows: `cd`<br>
 <br>
 Question: ***How do I go back up on level?***<br>
 Answer:<br>
