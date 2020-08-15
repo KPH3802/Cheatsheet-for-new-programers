@@ -1,4 +1,4 @@
-# In the Terminal/GitBash<br>
+# In the Terminal/Shell<br>
 
 #### Notes: 
 - Type in your command line whatever is in this grey text like this: `type exactly what is in here`  
@@ -19,9 +19,12 @@ Answer: `cd ~`<br>
 Question: ***How do I go back up on level?***<br>
 Answer: `cd ..`<br>
 <br>
-Question: ***How do I change the directory/folder to one below where I am currently?***<br>
+Question: ***How do I change/navigate to the directory/folder to one below where I am currently?***<br>
 Answer: `cd <Name of the folder>`  
 Note: *You must be in the proper directory/folder to get to the next one. If not navigate to where you need to be, then execute this code.*<br>
+<br>
+Question: ***How do I move down or navigate to multiple levels of directories/folders and files?***<br>
+Answer: `cd <Folder1Name/Folder2Name/FileIwantToGetTo.txt>`<br>
 <br>
 Question: ***How do I make a new directory/folder?***<br>
 Answer: `mkdir <NewFolderName>`<br> 
