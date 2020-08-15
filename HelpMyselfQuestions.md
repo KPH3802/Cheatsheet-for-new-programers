@@ -4,6 +4,7 @@
 - Type in your command line whatever is in this grey text like this: `type exactly what is in here`  
 - Change the text inside the <> arrows to be the name of the directory or folder you want. Like this <This is the name of your folder>  
 - For the sake of consistency "directory" and "folder" are the same thing. I try to use both words for clarity, but if not, you can assume they are the same thing.<br>
+- I have included both Windows and Mac commands. If not specifically designated, you can assume the command is the same for both.<br>
 <br>
 
 
@@ -11,9 +12,11 @@ Question: ***Where am I?***<br>
 Answer: `pwd`<br>
 <br>
 Question: ***What is in the directory/folder where I am currently?***<br>
-Answer: `ls`<br>
+Answer:
+Mac: `ls`<br>
+PC: `dir`<br>
 <br>
-Question: ***How do I start over and go back to the root directory?***<br>
+Question: ***How do I start over and go to the highest level directory?***<br>
 Answer: `cd ~`<br>
 <br>
 Question: ***How do I go back up on level?***<br>
