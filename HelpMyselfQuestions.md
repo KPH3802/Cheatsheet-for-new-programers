@@ -4,9 +4,9 @@
 - Type in your command line whatever is in this grey text like this: `type exactly what is in here`  
 - Change the text inside the <> arrows to be the name of the directory or folder you want. Like this <This is the name of your folder>  
 - For the sake of consistency "directory" and "folder" are the same thing. I try to use both words for clarity, but if not, you can assume they are the same thing. 
-
-
-
+<br>
+<br>
+<br>
 Question: ***Where am I?***<br>
 Answer: `pwd`<br>
 <br>
@@ -40,7 +40,7 @@ Question: ***How do I create predictive text so my Terminal/GitBash types out th
 Answer: Type the first few letters of what you want and hit the `tab` button<br>
 Note: *You need to be in the proper directory/folder that your folder or file that you want to use predicitive text for otherwise it won't produce anything. This is another way to know if you're in the proper directory/folder. Also, if you have more than one file or folder that begins with the same first few letters it will show you which folders or files you can choose from. Type until the first few letters are different and it will know which one you want.<br>
 <br>
- Question: ***Where the heck am I??!! My Terminal/GitBash now has ~ or # running down the side OR I forgot to hit `-m` when I was committing in git and now I can't get out!<br>
+ Question: ***Where the heck am I??!! My Terminal/GitBash now has ~ or # running down the side OR I forgot to hit `-m` when I was committing in git and now I can't get out!***<br>
  Answer: `esc` button then type `:wq`<br>
 <br>
 
