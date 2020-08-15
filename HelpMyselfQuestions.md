@@ -12,15 +12,19 @@ Question: ***Where am I?***<br>
 Answer: `pwd`<br>
 <br>
 Question: ***What is in the directory/folder where I am currently?***<br>
-Answer:
+Answer:<br>
 Mac: `ls`<br>
-PC: `dir`<br>
+Windows: `dir`<br>
 <br>
 Question: ***How do I start over and go to the highest level directory?***<br>
-Answer: `cd ~`<br>
+Answer:<br>
+Mac:`cd ~` or `cd /`<br>
+Windows: `cd`
 <br>
 Question: ***How do I go back up on level?***<br>
-Answer: `cd ..`<br>
+Answer:<br>
+Mac: `cd ..`<br>
+Windows: `cd..`<br>
 <br>
 Question: ***How do I change/navigate to the directory/folder to one below where I am currently?***<br>
 Answer: `cd <Name of the folder>`  
@@ -32,8 +36,18 @@ Answer: `cd <Folder1Name/Folder2Name/FileIwantToGetTo.txt>`<br>
 Question: ***How do I make a new directory/folder?***<br>
 Answer: `mkdir <NewFolderName>`<br> 
 <br>
+Question: ***How do I delete a directory/folder?***<br>
+Answer: 
+Mac:`rmdir <FolderName>`<br>
+Windows: `rmdir /S <FolderName>`<br>
+<br>
 Question: ***How do I make a new file?***<br>
-Answer: `touch <NewFileName>`<br>
+Answer:<br>
+Mac: `touch <NewFileName>`<br>
+Question: ***How do I delete a file?***<br>
+Answer:<br>
+Mac: `rm <FileName>`<br>
+PC: `del <FileName>`<br>
 <br>
 Question: ***How do I clear my terminal?***<br>
 Answer: `clear`<br> 
