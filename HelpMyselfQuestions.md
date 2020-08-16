@@ -44,6 +44,7 @@ Windows: `rmdir /S <FolderName>`<br>
 Question: ***How do I make a new file?***<br>
 Answer:<br>
 Mac: `touch <NewFileName>`<br>
+<br>
 Question: ***How do I delete a file?***<br>
 Answer:<br>
 Mac: `rm <FileName>`<br>
